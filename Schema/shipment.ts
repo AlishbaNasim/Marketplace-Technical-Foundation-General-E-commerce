@@ -1,4 +1,4 @@
-// schemas/shipment.js
+// schema/shipment.ts
 
 export default {
     name: 'shipment',
