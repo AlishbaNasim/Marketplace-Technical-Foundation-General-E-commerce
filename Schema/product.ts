@@ -1,4 +1,5 @@
-// schemas/product.js
+// schemas/product.ts
+
 
 export default {
     name: 'product',
