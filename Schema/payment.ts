@@ -1,4 +1,4 @@
-// schemas/payment.js
+// schemas/payment.ts
 
 export default {
     name: 'payment',
